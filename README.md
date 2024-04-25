@@ -11,7 +11,7 @@ Join our discord for help!
 https://discord.gg/745apyKaaa
 
 Required Applications:
-https://unity.com/download
-https://developer.playfab.com/en-us/login
-https://www.photonengine.com
-(Unity v2021.3.21f1 Is the Best Unity Version to use)
+ https://unity.com/download
+ https://developer.playfab.com/en-us/login
+ https://www.photonengine.com
+ (Unity v2021.3.21f1 Is the Best Unity Version to use)
